@@ -16,7 +16,17 @@ A web app that supports:
 
 ## Demo
 
+#### **Drawing shapes**
+
 ![Drawing_shapes](Demo/draw_shapes.gif)
+
+#### **Edit a shape**
+
+![Editing a shape](Demo/style_shape.gif)
+
+#### **Copy / Paste**
+
+![Copy / Paste](Demo/copy_paste.gif)
 
 ## Co-developed with 🤝
 
