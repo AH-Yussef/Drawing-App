@@ -14,6 +14,10 @@ A web app that supports:
 - Save the canvas in XML or JSON format
 - Load back the canvas and continue editing
 
+## Demo
+
+`![Drawing_shapes](Demo/draw_shapes.gif)`
+
 ## Co-developed with 🤝
 
 - Muhannad Nasr
