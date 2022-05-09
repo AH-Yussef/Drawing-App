@@ -28,6 +28,10 @@ A web app that supports:
 
 ![Copy / Paste](Demo/copy_paste.gif)
 
+#### **Undo / Redo**
+
+![Undo / Redo](Demo/undo_redo.gif)
+
 ## Co-developed with 🤝
 
 - Muhannad Nasr
