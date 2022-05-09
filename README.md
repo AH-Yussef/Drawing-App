@@ -1,4 +1,4 @@
-# Drawing App
+# Drawing App 🎨🖌
 
 A web app that supports:
 
@@ -16,19 +16,19 @@ A web app that supports:
 
 ## Demo
 
-#### **Drawing shapes**
+#### **1. Drawing shapes**
 
 ![Drawing_shapes](Demo/draw_shapes.gif)
 
-#### **Edit a shape**
+#### **2. Edit a shape**
 
 ![Editing a shape](Demo/style_shape.gif)
 
-#### **Copy / Paste**
+#### **3. Copy / Paste**
 
 ![Copy / Paste](Demo/copy_paste.gif)
 
-#### **Undo / Redo**
+#### **4. Undo / Redo**
 
 ![Undo / Redo](Demo/undo_redo.gif)
 
