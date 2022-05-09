@@ -16,7 +16,7 @@ A web app that supports:
 
 ## Demo
 
-`![Drawing_shapes](Demo/draw_shapes.gif)`
+![Drawing_shapes](Demo/draw_shapes.gif)
 
 ## Co-developed with 🤝
 
